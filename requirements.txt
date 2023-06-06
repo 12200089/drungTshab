@@ -10,7 +10,7 @@ WTForms==2.3.3
 numpy
 gevent
 h5py
-tensorflow-cpu
+#tensorflow-cpu
 gunicorn
 Pillow
 matplotlib
