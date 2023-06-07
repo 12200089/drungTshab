@@ -6,7 +6,7 @@ flask_sqlalchemy
 flask_login
 pandas
 scikit-learn
-keras_preprocessing
-keras
-tensorflow
+#keras_preprocessing
+#keras
+#tensorflow
 reportlab
