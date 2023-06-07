@@ -15,8 +15,8 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from werkzeug.utils import secure_filename
-from keras_preprocessing import image
-from keras.models import load_model
+# from keras_preprocessing import image
+# from keras.models import load_model
 import sys
 import os
 import glob
